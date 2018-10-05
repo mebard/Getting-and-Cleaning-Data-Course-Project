@@ -10,6 +10,7 @@ The first two variables contain identifying information about the records:
 
 - SubjectNumber takes the values of 1:30. There are 6 records per SubjectNumber
 - Activity_Type consists of six different types of activites: walking, walking upstairs, walking downstairs, sitting, standing, and laying
+- Data_type indicates if the information came from the test or training data
 
 The remaining 79 variables contain averages by measurement. This dataset only reports on averages for features related to the mean or standard deviation of a measurement
 
