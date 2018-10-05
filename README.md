@@ -4,6 +4,7 @@ This repo contains one R script (run_analysis.R) and one data file (tidy_data.tx
 
 The R script performs the following steps: 
 
+- Downloads and unzips data to the working directory
 - Merges the training and the test sets to create one data set.
 - Extracts only the measurements on the mean and standard deviation for each measurement.
 - Uses descriptive activity names to name the activities in the data set
